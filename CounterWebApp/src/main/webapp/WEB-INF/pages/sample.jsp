@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>"Welcome to DevOps CI/CD Demo" </title>
+    <title>"Welcome to DevOps CI/CD Demo by Naresh" </title>
   </head>
   <body bgcolor=white>
 
@@ -10,12 +10,12 @@
           <img src="polaris.jpeg">
         </td>
         <td>
-          <h1>" Warm Welcome to DevOps CI/CD Demo"</h1>
+          <h1>" Warm Welcome to DevOps CI/CD Demo by Naresh"</h1>
         </td>
       </tr>
     </table>
 
-    <p>This is the home page for the Java CounterWeb Appication. </p>
+    <p>This is the home page for the Java CounterWeb Application. </p>
     <p>To prove that they work, you can execute either of the following links:
     <ul>
             <li>To a <a href="hello">servlet</a>.
