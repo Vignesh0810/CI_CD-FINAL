@@ -18,7 +18,7 @@ public class OUR_JAVA {
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String welcome(ModelMap model) {
 		
-		model.addAttribute("message", "Welcome Polarite");
+		model.addAttribute("message", "Welcome");
 		model.addAttribute("counter", ++counter);
 		logger.debug("[welcome] counter : {}", counter);
 
@@ -30,7 +30,7 @@ public class OUR_JAVA {
 	@RequestMapping(value = "/{name1}", method = RequestMethod.GET)
 	public String welcomeName(@PathVariable String name1, ModelMap model) {
 
-		model.addAttribute("message", "Welcome Polarite " + name1);
+		model.addAttribute("message", "Welcome " + name1);
 		model.addAttribute("counter", ++counter);
 		logger.debug("[welcomeName] counter : {}", counter);
 		return VIEW_INDEX;
