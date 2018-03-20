@@ -16,7 +16,7 @@
     </table>
 
     <p>This is the home page for the Java CounterWeb Application. </p>
-    <p>To prove that they work, you can execute either of the following links:
+    <p>To prove that they work, you can execute the following links:
     <ul>
             <li>To a <a href="hello">servlet</a>.
     </ul>
