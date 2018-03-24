@@ -10,12 +10,12 @@
           <img src="polaris.jpeg">
         </td>
         <td>
-          <h1>" Warm Welcome to DevOps CI/CD Demo using Docker and ansible"</h1>
+          <h1>" Warm Welcome to DevOps CI/CD Demo using Docker and ansible by Naresh"</h1>
         </td>
       </tr>
     </table>
 
-    <p>This is the home page for the Java CounterWeb Application. </p>
+    <p>This is the home page for the Java CounterWeb Application dev server. </p>
     <p>To prove that they work, you can execute the following links:
     <ul>
             <li>To a <a href="hello">servlet</a>.
