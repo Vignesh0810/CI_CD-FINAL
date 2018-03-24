@@ -10,7 +10,7 @@
           <img src="polaris.jpeg">
         </td>
         <td>
-          <h1>" Warm Welcome to DevOps CI/CD Demo using Docker and ansible by Naresh"</h1>
+          <h1>" Warm Welcome to DevOps CI/CD Demo using ansible in dev by Naresh"</h1>
         </td>
       </tr>
     </table>
