@@ -15,7 +15,7 @@
       </tr>
     </table>
 
-    <p>This is the home page for the Java CounterWeb Application dev server. </p>
+    <p>This is the home page for the Java CounterWeb Application dev server !!!! </p>
     <p>To prove that they work, you can execute the following links:
     <ul>
             <li>To a <a href="hello">servlet</a>.
